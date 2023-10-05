@@ -1,0 +1,20 @@
+{
+  "name": "overtrace",
+  "version": "0.0.1",
+  "description": "Tracing and logging tool for NodeJs applications",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arinmirza/overtrace.git"
+  },
+  "keywords": [
+    "overtrace",
+    "logging",
+    "logger",
+    "logs",
+    "trace",
+    "json"
+  ],
+  "author": "Arın Mirza",
+  "license": "MIT"
+}
